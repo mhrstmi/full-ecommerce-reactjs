@@ -53,7 +53,7 @@ function App() {
         <Header cartItem={cartItem} />
         <Switch>
 
-          <Route path="/" exact>
+          <Route path="/full-ecommerce-reactjs" exact>
             <Home productItems={productItems}  addToCart={addToCart} shopItems={shopItems} /> 
           </Route> 
 

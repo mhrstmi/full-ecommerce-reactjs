@@ -22,7 +22,7 @@ const Navbar = () => {
                 <div className="navlink">
                     <ul className= "link f_flex capitalize" >
                         <li>
-                            <Link to='/' >خانه</Link>
+                            <Link to='/full-ecommerce-reactjs' >خانه</Link>
                         </li>
 
                         <li>

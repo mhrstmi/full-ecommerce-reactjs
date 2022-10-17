@@ -15,7 +15,7 @@ const Search = ({cartItem}) => {
         <section className="search">
             <div className="container c_flex">
                 <div className="logo width">
-                  <Link to="/">
+                  <Link to="/full-ecommerce-reactjs">
                     <img src={logo} alt='' />
                     </Link>
                 </div>
